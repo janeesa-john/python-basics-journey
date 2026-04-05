@@ -36,7 +36,7 @@ To strengthen problem-solving skills and prepare for backend development using D
 * Day 2 ✅
 * Day 3 ✅
 * Day 4 ✅
-* Day 5 ⏳
+* Day 5 ✅
 
 ---
 
