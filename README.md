@@ -54,6 +54,8 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 4 ✅ Strings
 * Day 5 ✅ Lists
 * Day 6 🔄 Mini Project (To-Do App in progress)
+* Day 7 🔄 Mini Project (To-Do App in progress)
+
 
 ---
 
