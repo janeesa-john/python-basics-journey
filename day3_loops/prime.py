@@ -1,4 +1,4 @@
-#Prime number check
+# Program to check whether a number is prime using loop and conditional logic
 
 n = int(input("Enter a number: "))
 if n<=1:
