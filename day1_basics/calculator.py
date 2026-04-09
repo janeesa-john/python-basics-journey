@@ -1,3 +1,5 @@
+# Program to perform basic calculator operations
+
 print("Calculator")
 num1 = float(input("Enter a number: "))
 num2 = float(input("Enter a number: "))
