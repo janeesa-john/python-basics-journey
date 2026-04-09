@@ -1,4 +1,4 @@
-#To find largest among three numbers
+# Program to find the largest number among three inputs using conditional logic
 
 num1 = int(input("Enter a number: "))
 num2 = int(input("Enter a number: "))

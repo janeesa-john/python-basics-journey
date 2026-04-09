@@ -1,4 +1,4 @@
-#Grade system
+# Program to assign grades based on marks using if-elif-else conditions
 
 marks = int(input("Enter your marks: "))
 if marks < 0 or marks > 100:
