@@ -1,4 +1,4 @@
-#Find largest number
+# Program to find the largest number in a list
 
 number = input("Enter numbers: ").split()
 l = []

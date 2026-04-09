@@ -1,4 +1,4 @@
-#Count frequency
+# Program to count the frequency of elements in a list using a dictionary
 
 numbers = list(map(int, input("Enter numbers: ").split()))
 frequency = {}

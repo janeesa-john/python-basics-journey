@@ -1,4 +1,4 @@
-#Remove duplicates
+# Program to remove duplicate elements from a list
 
 duplicate = list(map(int,input("Enter numbers: ").split()))
 new = []
