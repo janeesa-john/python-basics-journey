@@ -1,4 +1,4 @@
-#Palindrome check
+# Program to check whether a string is a palindrome
 
 word = input("Enter a word: ")
 rev = ""

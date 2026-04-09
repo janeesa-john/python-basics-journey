@@ -1,4 +1,4 @@
-#Reverse a string
+# Program to reverse a string using slicing
 
 s = input("Enter a word: ")
 rev = ""

@@ -1,4 +1,4 @@
-#Count words in a sentence
+# Program to count the number of words in a sentence
 
 sentence = input("Enter a sentence: ")
 word = sentence.split()
