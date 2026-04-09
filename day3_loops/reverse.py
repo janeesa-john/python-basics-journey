@@ -1,4 +1,4 @@
-#To print numbers in reverse (n to 1)
+# Program to print numbers in reverse order from N to 1 using a loop
 
 n = int(input("Enter a number: "))
 for i in range(n,0,-1):

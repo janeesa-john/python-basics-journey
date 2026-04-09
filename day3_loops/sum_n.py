@@ -1,4 +1,4 @@
-#Sum of first n numbers
+# Program to calculate the sum of first N natural numbers using a loop
 
 n = int(input("Enter a number: "))
 total = 0
