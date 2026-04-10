@@ -1,5 +1,7 @@
-#CLI To-Do App
+# CLI To-Do Application
+# Allows users to add, view, and delete tasks using file handling
 
+print("\n===== TO-DO APP =====")
 while True:
     print("\nTo-Do App")
     print("1. Add Task")
