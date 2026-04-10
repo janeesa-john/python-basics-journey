@@ -25,10 +25,56 @@ This repository documents my journey of building a strong foundation in Python a
 
 ---
 
+## 🚀 Projects
+
+* CLI To-Do Application (in progress)
+* Number Guessing Game 🎯
+
+---
 ## 🚀 Current Work
 
-* Building a CLI-based To-Do Application using Python
-* Learning file handling and application structure
+* Improving file handling concepts 
+* Building CLI-based applications 
+* Strengthening problem-solving skills
+
+
+---
+
+## 🚀 Features
+
+* Random number generation (1–100)
+* User input-based guessing
+* Feedback for each guess (Too high / Too low)
+* Limited number of attempts
+* Win/Lose outcome
+
+---
+
+## 🛠️ Tech Stack
+
+* Python
+
+---
+
+## ▶️ How to Run
+
+```bash
+python game.py
+```
+
+---
+
+## 💡 Learning Outcomes
+
+* Understanding loops and conditionals
+* Using the random module
+* Implementing game logic
+* Managing user interaction
+
+---
+
+⭐ This project is part of my journey toward becoming a Full Stack Developer.
+
 
 ---
 
@@ -56,6 +102,8 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 6 🔄 Mini Project (To-Do App in progress)
 * Day 7 🔄 Mini Project (To-Do App in progress)
 * Day 8 🛠️ Project setup and planning for upcoming mini projects
+* Day 9 🤒 Light activity (health focus, maintained consistency)
+* Day 10 ✅ Number Guessing Game completed
 
 
 ---
