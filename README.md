@@ -11,6 +11,8 @@ This repository documents my journey of building a strong foundation in Python a
 * Loops
 * Strings
 * Lists
+* File Handling (learning)
+* Mini Project Development
 
 ---
 
@@ -29,6 +31,7 @@ This repository documents my journey of building a strong foundation in Python a
 
 * CLI To-Do Application (in progress)
 * Number Guessing Game 🎯
+* Password Generator 🔐
 
 ---
 ## 🚀 Current Work
@@ -36,17 +39,6 @@ This repository documents my journey of building a strong foundation in Python a
 * Improving file handling concepts 
 * Building CLI-based applications 
 * Strengthening problem-solving skills
-
-
----
-
-## 🚀 Features
-
-* Random number generation (1–100)
-* User input-based guessing
-* Feedback for each guess (Too high / Too low)
-* Limited number of attempts
-* Win/Lose outcome
 
 ---
 
@@ -61,7 +53,6 @@ This repository documents my journey of building a strong foundation in Python a
 ```bash
 python game.py
 ```
-
 ---
 
 ## 💡 Learning Outcomes
@@ -104,6 +95,7 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 8 🛠️ Project setup and planning for upcoming mini projects
 * Day 9 🤒 Light activity (health focus, maintained consistency)
 * Day 10 ✅ Number Guessing Game completed
+* Day 11 ✅ Password Generator completed
 
 
 ---
