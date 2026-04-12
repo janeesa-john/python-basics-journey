@@ -32,6 +32,7 @@ This repository documents my journey of building a strong foundation in Python a
 * CLI To-Do Application (in progress)
 * Number Guessing Game 🎯
 * Password Generator 🔐
+* Contact Book Application 📒
 
 ---
 ## 🚀 Current Work
