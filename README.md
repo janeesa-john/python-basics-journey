@@ -97,7 +97,8 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 9 🤒 Light activity (health focus, maintained consistency)
 * Day 10 ✅ Number Guessing Game completed
 * Day 11 ✅ Password Generator completed 
-* Day 12 ✅ Contact Book application completed (CRUD operations using dictionary)
+* Day 12 🔄 Contact Book application
+* Day 13 ✅ Contact Book application completed (Full CRUD operations)
 
 
 
