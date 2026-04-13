@@ -1,6 +1,4 @@
-
-
-print("📒 Contact Book")
+print("📒 Welcome to Contact Book")
 
 contact_book = {}
 
@@ -9,23 +7,28 @@ while True:
     print("2. View Contacts")
     print("3. Search Contact")
     print("4. Delete Contact")
-    print("5. Exit")
+    print("5. Update Contact")
+    print("6. Exit")
 
     choice = input("Enter your choice: ")
 
     if choice == '1':
         name = input("Enter name: ")
         number = input("Enter contact number: ")
-        contact_book[name] = number
-        print("Contact added successfully")
+
+        if name in contact_book:
+            print("Contact already exists")
+        else:
+            contact_book[name] = number
+            print("Contact added successfully")
 
     elif choice == '2':
         if not contact_book:
             print("No contacts found")
         else:
             print("\nSaved contacts: ")
-            for name,number in contact_book.items():
-                print(name,"-",number)
+            for name, number in contact_book.items():
+                print(name, "-", number)
 
     elif choice == '3':
         search = input("Enter name to search: ")
@@ -43,7 +46,16 @@ while True:
             print("Contact not found")
 
     elif choice == '5':
-        print("Good Bye!")
+        name = input("Enter contact name to update: ")
+        if name in contact_book:
+            number = input("Enter new contact number: ")
+            contact_book[name] = number
+            print("Contact updated successfully")
+        else:
+            print("Contact not found")
+
+    elif choice == '6':
+        print("Goodbye!")
         break
 
     else:
