@@ -11,6 +11,7 @@ This project allows users to store and manage contacts through a simple menu-dri
 * View all saved contacts
 * Search contact by name
 * Delete contact by name
+* Update existing contact number
 * Exit application safely
 
 ---
@@ -45,14 +46,15 @@ python main.py
 2. View Contacts
 3. Search Contact
 4. Delete Contact
-5. Exit
+5. Update Contact
+6. Exit
 ```
 
 ---
 
 ## 📌 Learning Outcomes
 
-* Understanding CRUD operations (Create, Read, Delete)
+* Understanding CRUD operations (Create, Read, Update, Delete)
 * Using dictionaries for data storage
 * Building menu-driven applications
 * Improving problem-solving and program structure
