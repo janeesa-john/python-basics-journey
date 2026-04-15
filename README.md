@@ -100,6 +100,8 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 12 🔄 Contact Book application
 * Day 13 ✅ Contact Book application completed (Full CRUD operations)
 * Day 14 ✅ Practiced Python functions by building reusable programs
+* Day 15 ✅ Refactored Contact Book project using Python functions
+
 
 
 
