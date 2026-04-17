@@ -1,3 +1,4 @@
+# Append new note to existing text file
 
 note = input("Enter another note: ")
 
