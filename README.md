@@ -102,6 +102,7 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 14 ✅ Practiced Python functions by building reusable programs
 * Day 15 ✅ Refactored Contact Book project using Python functions
 * Day 16 ✅ Built Library Management System using Python functions, CRUD operations, and input validation
+* Day 17 🔄 Practicing Python file handling (read, write, append)
 
 
 
