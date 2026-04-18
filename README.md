@@ -29,7 +29,7 @@ This repository documents my journey of building a strong foundation in Python a
 
 ## 🚀 Projects
 
-* CLI To-Do Application (in progress)
+* CLI To-Do Application 📝
 * Number Guessing Game 🎯
 * Password Generator 🔐
 * Contact Book Application 📒
@@ -120,7 +120,6 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 
 ## 🌱 Next Steps
 
-* Complete CLI To-Do Application
 * Build more Python mini projects
 * Start Django development
 
