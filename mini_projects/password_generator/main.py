@@ -7,7 +7,13 @@ import string
 print("🔐 Password Generator")
 
 while True:
-    length = int(input("Enter password length: "))
+    length = input("Enter password length: ")
+
+    if not length.isdigit():
+        print("Please enter numbers only: ")
+        continue
+
+    length = int(length)
 
     if length <= 0:
         print("Enter a valid length")
