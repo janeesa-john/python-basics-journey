@@ -103,7 +103,9 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 15 ✅ Refactored Contact Book project using Python functions
 * Day 16 ✅ Built Library Management System using Python functions, CRUD operations, and input validation
 * Day 17 🔄 Practicing Python file handling (read, write, append)
-* Day 18 ✅ Built CLI To-Do App using Python file handling and functions
+* Day 18 ✅ Built CLI To-Do App using Python file handling and functions 
+* Day 19 ✅ Improved Password Generator by fixing crash on invalid input
+
 
 
 
