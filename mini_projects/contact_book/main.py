@@ -76,4 +76,4 @@ while True:
         print("Goodbye!")
         break
     else:
-        print("Invalid choice")
+        print("Please enter valid choice:1/2/3/4/5/6")
