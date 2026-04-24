@@ -25,6 +25,7 @@ This repository documents my journey of building a strong foundation in Python a
 * `day4_strings/` – String manipulation
 * `day5_lists/` – List operations and problem solving
 * `mini_projects/` – Real-world Python applications
+* day24_functions_food_order_system/ – Practiced Python functions using required, default, *args, **kwargs
 
 ---
 
