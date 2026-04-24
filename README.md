@@ -11,7 +11,8 @@ This repository documents my journey of building a strong foundation in Python a
 * Loops
 * Strings
 * Lists
-* File Handling (learning)
+* File Handling
+* Functions & Argument Types
 * Mini Project Development
 
 ---
@@ -34,13 +35,14 @@ This repository documents my journey of building a strong foundation in Python a
 * Password Generator 🔐
 * Contact Book Application 📒 
 * Expense Tracker 💸
+* Food Order System 🍽️
 
 ---
 ## 🚀 Current Work
 
-* Improving file handling concepts 
+* Strengthening Python functions and arguments
 * Building CLI-based applications 
-* Strengthening problem-solving skills
+* Preparing for file handling and backend development
 
 ---
 
@@ -59,10 +61,9 @@ python game.py
 
 ## 💡 Learning Outcomes
 
-* Understanding loops and conditionals
-* Using the random module
-* Implementing game logic
-* Managing user interaction
+* Understanding Python function parameter ordering 
+* Using flexible arguments in real-world programs 
+* Structuring CLI mini projects cleanly
 
 ---
 
@@ -110,11 +111,7 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 21 ✅ Maintained consistency, reviewed progress, and planned next learning steps 
 * Day 22 ✅ Built CLI Expense Tracker using Python functions and dictionaries
 * Day 23 ✅ Improved Expense Tracker with delete feature and better validation
-
-
-
-
-
+* Day 24 ✅ Built Food Order System using Python functions (*args, **kwargs, default arguments)
 
 
 
