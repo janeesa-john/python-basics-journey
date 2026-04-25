@@ -25,8 +25,6 @@ This repository documents my journey of building a strong foundation in Python a
 * `day4_strings/` – String manipulation
 * `day5_lists/` – List operations and problem solving
 * `mini_projects/` – Real-world Python applications
-* day24_functions_food_order_system/ – Practiced Python functions using required, default, *args, **kwargs
-
 ---
 
 ## 🚀 Projects
@@ -37,6 +35,7 @@ This repository documents my journey of building a strong foundation in Python a
 * Contact Book Application 📒 
 * Expense Tracker 💸
 * Food Order System 🍽️
+* Notes Manager 📝
 
 ---
 ## 🚀 Current Work
@@ -113,7 +112,7 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 22 ✅ Built CLI Expense Tracker using Python functions and dictionaries
 * Day 23 ✅ Improved Expense Tracker with delete feature and better validation
 * Day 24 ✅ Built Food Order System using Python functions (*args, **kwargs, default arguments)
-
+* Day 25 ✅ Built Notes Manager using Python file handling
 
 
 
