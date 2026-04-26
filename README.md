@@ -112,7 +112,8 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 22 ✅ Built CLI Expense Tracker using Python functions and dictionaries
 * Day 23 ✅ Improved Expense Tracker with delete feature and better validation
 * Day 24 ✅ Built Food Order System using Python functions (*args, **kwargs, default arguments)
-* Day 25 ✅ Built Notes Manager using Python file handling
+* Day 25 ✅ Built Notes Manager using Python file handling 
+* Day 26 ✅ Upgraded Notes Manager with search and delete features using Python file handling
 
 
 
