@@ -8,6 +8,8 @@ A simple CLI-based Python application to create and manage notes using file hand
 
 * Add new notes
 * View saved notes
+* Search notes by keyword
+* Delete all notes
 * Persistent storage using text file
 * Menu-driven command line interface
 
@@ -32,7 +34,7 @@ A simple CLI-based Python application to create and manage notes using file hand
 
 ## ▶️ How to Run
 
-```bash
+```bash id="m2x26a"
 python main.py
 ```
 
@@ -43,6 +45,8 @@ python main.py
 * Using `with open()` for safe file operations
 * Append mode (`a`) to save data
 * Read mode (`r`) to display saved notes
+* Search functionality using loops and conditions
+* Clearing file content using write mode (`w`)
 * Building menu-driven CLI applications
 * Structuring code using functions
 
@@ -50,10 +54,11 @@ python main.py
 
 ## 🌱 Future Improvements
 
-* Delete notes
-* Search notes
-* Add timestamps
+* Delete single note
 * Edit notes
+* Add timestamps
+* Categorize notes
+* Export notes to CSV/JSON
 
 ---
 
