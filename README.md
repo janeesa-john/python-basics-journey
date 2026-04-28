@@ -116,6 +116,7 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 25 ✅ Built Notes Manager using Python file handling 
 * Day 26 ✅ Upgraded Notes Manager with search and delete features using Python file handling
 * Day 27 ✅ Built Dice Roller mini project using Python random module
+* Day 28 ✅ Improved Dice Roller with roll counter and history tracking
 
 
 
