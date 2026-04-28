@@ -1,17 +1,28 @@
 import random
 
-print("🎲 Dice Roller")
+count = 0
+history = []
+
+print("🎲 Welcome to Dice Roller")
 
 while True:
-    choice = input("Roll dice? (yes/no): ").lower()
+    choice = input("\nRoll dice? (yes/no): ").lower()
 
-    if choice == "yes":
+    if choice in ["yes", "y"]:
         number = random.randint(1, 6)
+        count += 1
+        history.append(number)
+
         print("You got:", number)
 
-    elif choice == "no":
-        print("Goodbye!")
+    elif choice in ["no", "n"]:
+        print("\nGoodbye!")
+        print("Total Rolls:", count)
+
+        if history:
+            print("Roll History:", history)
+
         break
 
     else:
-        print("Invalid input. Please enter yes or no.")
+        print("Invalid input. Please enter yes/no.")

@@ -10,6 +10,9 @@ A simple Python CLI project that simulates rolling a dice.
 * Roll multiple times
 * User-friendly CLI interaction
 * Input validation
+* Tracks total number of rolls 
+* Stores roll history 
+* Improved input handling
 
 ---
 
