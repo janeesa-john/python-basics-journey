@@ -37,6 +37,7 @@ This repository documents my journey of building a strong foundation in Python a
 * Food Order System 🍽️
 * Notes Manager 📝
 * Dice Roller 🎲
+* Quiz App 🧠
 
 ---
 ## 🚀 Current Work
@@ -117,6 +118,7 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 26 ✅ Upgraded Notes Manager with search and delete features using Python file handling
 * Day 27 ✅ Built Dice Roller mini project using Python random module
 * Day 28 ✅ Improved Dice Roller with roll counter and history tracking
+* Day 29 ✅ Built Quiz App using Python dictionaries and score tracking
 
 
 
