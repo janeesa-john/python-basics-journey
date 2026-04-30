@@ -1,0 +1,94 @@
+# Day 30 - Types of Arguments in Python 📘
+
+## 🔹 Types of Arguments
+
+### 1. Required Arguments
+
+These must be provided when calling the function.
+If missing → error.
+
+```python
+def greet(name):
+    print("Hello", name)
+
+greet("John")   # ✅ Works
+greet()         # ❌ Error
+```
+
+---
+
+### 2. Keyword Arguments
+
+Arguments are passed using parameter names.
+Order does not matter.
+
+```python
+def introduce(name, age):
+    print(name, "is", age, "years old")
+
+introduce(age=25, name="Alice")
+```
+
+---
+
+### 3. Default Arguments
+
+Parameters have default values.
+If no argument is passed, default is used.
+
+```python
+def greet(name="Guest"):
+    print("Hello", name)
+
+greet()        # Hello Guest
+greet("John")  # Hello John
+```
+
+---
+
+### 4. Variable Length Arguments (Arbitrary Arguments)
+
+#### a) *args (Non-keyword arguments)
+
+Used when number of arguments is unknown.
+
+```python
+def add(*numbers):
+    total = 0
+    for num in numbers:
+        total += num
+    print("Sum:", total)
+
+add(1, 2, 3)
+add(5, 10)
+```
+
+---
+
+#### b) **kwargs (Keyword arguments)
+
+Used for variable number of keyword arguments.
+
+```python
+def display(**data):
+    for key, value in data.items():
+        print(key, ":", value)
+
+display(name="Alice", age=25)
+```
+
+---
+
+## 🔹 Summary
+
+* Required → must pass values
+* Keyword → pass using names
+* Default → has predefined value
+* *args → multiple values
+* **kwargs → multiple key-value pairs
+
+---
+
+## 🔹 What I Learned
+
+Understanding argument types helps write flexible and reusable functions.
