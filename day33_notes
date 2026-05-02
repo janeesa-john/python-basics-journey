@@ -1,0 +1,86 @@
+# Day 33 - Nonlocal & Built-in Scope in Python 📘
+
+## 🔹 1. Nonlocal Scope
+
+The `nonlocal` keyword is used to modify a variable in the **outer (enclosing) function**, not global.
+
+👉 Used in **nested functions**
+
+### Example:
+
+```python
+def outer():
+    x = 10
+
+    def inner():
+        nonlocal x
+        x = 20
+        print("Inner:", x)
+
+    inner()
+    print("Outer:", x)
+
+outer()
+```
+
+### Output:
+
+```
+Inner: 20
+Outer: 20
+```
+
+👉 Without `nonlocal`, the inner function cannot modify the outer variable.
+
+---
+
+## 🔹 2. Built-in Scope
+
+Built-in scope contains all **predefined names in Python**.
+
+Examples:
+
+* `print()`
+* `len()`
+* `type()`
+* `range()`
+
+These are always available without importing anything.
+
+### Example:
+
+```python
+numbers = [1, 2, 3]
+print(len(numbers))
+```
+
+👉 `len()` is a built-in function.
+
+---
+
+## 🔹 LEGB Rule (Very Important)
+
+Python follows this order to find variables:
+
+1. **L → Local**
+2. **E → Enclosing (nonlocal)**
+3. **G → Global**
+4. **B → Built-in**
+
+👉 Python searches in this order when you use a variable.
+
+---
+
+## 🔹 Summary
+
+* `nonlocal` → modifies variable in outer function
+* Built-in → predefined functions always available
+* LEGB → how Python searches variables
+
+---
+
+## 🔹 What I Learned
+
+* How nested functions share variables
+* Difference between global and nonlocal
+* How Python resolves variable names (LEGB)

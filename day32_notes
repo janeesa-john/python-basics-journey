@@ -1,0 +1,83 @@
+# Day 32 - Scope of Variables in Python 📘
+
+## 🔹 What is Scope?
+
+Scope refers to where a variable can be accessed in a program.
+
+---
+
+## 🔹 Types of Scope
+
+### 1. Local Scope
+
+A variable declared inside a function.
+It can only be used inside that function.
+
+```python
+def my_function():
+    x = 10   # local variable
+    print(x)
+
+my_function()
+# print(x) ❌ Error (outside function)
+```
+
+---
+
+### 2. Global Scope
+
+A variable declared outside all functions.
+It can be accessed anywhere in the program.
+
+```python
+x = 20   # global variable
+
+def my_function():
+    print(x)
+
+my_function()
+print(x)
+```
+
+---
+
+## 🔹 Global Keyword
+
+Used to modify a global variable inside a function.
+
+```python
+x = 10
+
+def change():
+    global x
+    x = 50
+
+change()
+print(x)   # Output: 50
+```
+
+---
+
+## 🔹 Key Difference
+
+| Local Scope            | Global Scope              |
+| ---------------------- | ------------------------- |
+| Inside function        | Outside function          |
+| Cannot be used outside | Can be used anywhere      |
+| Temporary              | Exists throughout program |
+
+---
+
+## 🔹 Important Notes
+
+* Local variables exist only during function execution
+* Global variables should be used carefully
+* Avoid too many global variables (bad practice)
+
+---
+
+## 🔹 What I Learned
+
+* Difference between local and global variables
+* How scope controls access to variables
+* Use of `global` keyword
