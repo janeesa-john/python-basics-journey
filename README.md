@@ -121,6 +121,8 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 29 ✅ Built Quiz App using Python dictionaries and score tracking
 * Day 30 ✅ Added notes on types of arguments in Python
 * Day 31 ✅ Built function-based calculator using arguments
+* Day 32 ✅ Added notes on scope of variables in Python
+* Day 33 ✅ Added notes on nonlocal and built-in scope in Python
 
 
 
