@@ -123,6 +123,7 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 31 ✅ Built function-based calculator using arguments
 * Day 32 ✅ Added notes on scope of variables in Python
 * Day 33 ✅ Added notes on nonlocal and built-in scope in Python
+* Day 34 ✅ Built counter app to practice variable scope and global keyword
 
 
 
