@@ -25,6 +25,7 @@ This repository documents my journey of building a strong foundation in Python a
 * `day4_strings/` – String manipulation
 * `day5_lists/` – List operations and problem solving
 * `mini_projects/` – Real-world Python applications
+
 ---
 
 ## 🚀 Projects
@@ -32,7 +33,7 @@ This repository documents my journey of building a strong foundation in Python a
 * CLI To-Do Application 📝
 * Number Guessing Game 🎯
 * Password Generator 🔐
-* Contact Book Application 📒 
+* Contact Book Application 📒
 * Expense Tracker 💸
 * Food Order System 🍽️
 * Notes Manager 📝
@@ -40,37 +41,43 @@ This repository documents my journey of building a strong foundation in Python a
 * Quiz App 🧠
 
 ---
+
 ## 🚀 Current Work
 
-* Strengthening Python functions and arguments
-* Building CLI-based applications 
-* Preparing for file handling and backend development
-
----
-
-## 🛠️ Tech Stack
-
-* Python
+* Strengthening Python fundamentals through mini projects
+* Improving file handling and CLI application development
+* Preparing to transition into Django backend development
 
 ---
 
 ## ▶️ How to Run
 
+Navigate to the project folder and run:
+
 ```bash
-python game.py
+python main.py
 ```
+
+---
+
+## ✨ Recent Improvements
+
+* Enhanced Notes Manager with search and delete features
+* Improved Dice Roller with roll tracking and history
+* Practiced Python scope concepts with counter app
+* Continued daily coding consistency up to Day 35
+
 ---
 
 ## 💡 Learning Outcomes
 
-* Understanding Python function parameter ordering 
-* Using flexible arguments in real-world programs 
+* Understanding Python function parameter ordering
+* Using flexible arguments in real-world programs
 * Structuring CLI mini projects cleanly
 
 ---
 
 ⭐ This project is part of my journey toward becoming a Full Stack Developer.
-
 
 ---
 
@@ -100,21 +107,21 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 8 🛠️ Project setup and planning for upcoming mini projects
 * Day 9 🤒 Light activity (health focus, maintained consistency)
 * Day 10 ✅ Number Guessing Game completed
-* Day 11 ✅ Password Generator completed 
+* Day 11 ✅ Password Generator completed
 * Day 12 🔄 Contact Book application
 * Day 13 ✅ Contact Book application completed (Full CRUD operations)
 * Day 14 ✅ Practiced Python functions by building reusable programs
 * Day 15 ✅ Refactored Contact Book project using Python functions
 * Day 16 ✅ Built Library Management System using Python functions, CRUD operations, and input validation
 * Day 17 🔄 Practicing Python file handling (read, write, append)
-* Day 18 ✅ Built CLI To-Do App using Python file handling and functions 
+* Day 18 ✅ Built CLI To-Do App using Python file handling and functions
 * Day 19 ✅ Improved Password Generator by fixing crash on invalid input
 * Day 20 ✅ Code cleanup, project improvements, and repository maintenance
-* Day 21 ✅ Maintained consistency, reviewed progress, and planned next learning steps 
+* Day 21 ✅ Maintained consistency, reviewed progress, and planned next learning steps
 * Day 22 ✅ Built CLI Expense Tracker using Python functions and dictionaries
 * Day 23 ✅ Improved Expense Tracker with delete feature and better validation
 * Day 24 ✅ Built Food Order System using Python functions (*args, **kwargs, default arguments)
-* Day 25 ✅ Built Notes Manager using Python file handling 
+* Day 25 ✅ Built Notes Manager using Python file handling
 * Day 26 ✅ Upgraded Notes Manager with search and delete features using Python file handling
 * Day 27 ✅ Built Dice Roller mini project using Python random module
 * Day 28 ✅ Improved Dice Roller with roll counter and history tracking
@@ -125,8 +132,6 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 33 ✅ Added notes on nonlocal and built-in scope in Python
 * Day 34 ✅ Built counter app to practice variable scope and global keyword
 * Day 35 ✅ Maintained consistency by improving project documentation and minor code enhancements
-
-
 
 ---
 
@@ -143,4 +148,4 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 
 ---
 
-⭐ Consistency over perfection.
+⭐ Consistency over perfection — building one day at a time.
