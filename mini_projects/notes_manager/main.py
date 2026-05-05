@@ -3,6 +3,7 @@ def add_note():
     with open("notes.txt","a") as file:
         note = input("Enter notes: ")
         file.write(note + "\n")
+    print("Note added successfully")
 
 def view_note():
     with open("notes.txt","r") as file:
@@ -31,7 +32,7 @@ def delete_all_notes():
 
 
 while True:
-    print("\nNotes Manager")
+    print("\n📝 Welcome to Notes Manager")
     print("1. Add Note")
     print("2. View Notes")
     print("3. Search Note")
@@ -42,7 +43,6 @@ while True:
 
     if choice == '1':
         add_note()
-        print("Note added successfully")
 
     elif choice == '2':
         view_note()

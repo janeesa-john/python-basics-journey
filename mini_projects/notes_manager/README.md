@@ -60,6 +60,14 @@ python main.py
 * Categorize notes
 * Export notes to CSV/JSON
 
+
+## ✨ Recent Improvements
+
+- Added search functionality
+- Added delete all notes feature
+- Improved user interaction
+- Better structured functions
+
 ---
 
 Built as part of my Python learning journey toward Full Stack Development 🚀
