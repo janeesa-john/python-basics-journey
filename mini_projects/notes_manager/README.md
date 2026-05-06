@@ -1,6 +1,6 @@
 # Notes Manager 📝
 
-A simple CLI-based Python application to create and manage notes using file handling.
+A CLI-based Python application to create, manage, search, and delete notes using file handling.
 
 ---
 
@@ -9,7 +9,10 @@ A simple CLI-based Python application to create and manage notes using file hand
 * Add new notes
 * View saved notes
 * Search notes by keyword
+* Delete single note
 * Delete all notes
+* Prevent empty note entries
+* Display total notes count
 * Persistent storage using text file
 * Menu-driven command line interface
 
@@ -22,6 +25,7 @@ A simple CLI-based Python application to create and manage notes using file hand
 * Functions
 * Loops
 * Conditional Statements
+* Lists and Indexing
 
 ---
 
@@ -34,7 +38,7 @@ A simple CLI-based Python application to create and manage notes using file hand
 
 ## ▶️ How to Run
 
-```bash id="m2x26a"
+```bash
 python main.py
 ```
 
@@ -45,28 +49,32 @@ python main.py
 * Using `with open()` for safe file operations
 * Append mode (`a`) to save data
 * Read mode (`r`) to display saved notes
-* Search functionality using loops and conditions
-* Clearing file content using write mode (`w`)
+* Searching notes using loops and conditions
+* Rewriting file data using write mode (`w`)
+* Deleting specific notes using list indexing
 * Building menu-driven CLI applications
 * Structuring code using functions
 
 ---
 
+## ✨ Recent Improvements
+
+* Added search functionality
+* Added delete single note feature
+* Added delete all notes feature
+* Improved user interaction and validation
+* Added total notes count
+* Better structured functions and formatting
+
+---
+
 ## 🌱 Future Improvements
 
-* Delete single note
 * Edit notes
 * Add timestamps
 * Categorize notes
 * Export notes to CSV/JSON
-
-
-## ✨ Recent Improvements
-
-- Added search functionality
-- Added delete all notes feature
-- Improved user interaction
-- Better structured functions
+* GUI version using Tkinter
 
 ---
 
