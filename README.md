@@ -132,6 +132,7 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 33 ✅ Added notes on nonlocal and built-in scope in Python
 * Day 34 ✅ Built counter app to practice variable scope and global keyword
 * Day 35 ✅ Maintained consistency by improving project documentation and minor code enhancements
+* Day 36 ✅ Added delete single note and improved validation in Notes Manager
 
 ---
 
