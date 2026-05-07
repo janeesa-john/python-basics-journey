@@ -1,4 +1,4 @@
-# Python Basics Journey 🚀
+# Python Learning Journey 
 
 This repository documents my journey of building a strong foundation in Python as part of my transition into Full Stack Development.
 
