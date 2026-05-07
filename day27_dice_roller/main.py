@@ -2,6 +2,7 @@ import random
 
 count = 0
 history = []
+highest = 0
 
 print("🎲 Welcome to Dice Roller")
 
@@ -10,8 +11,12 @@ while True:
 
     if choice in ["yes", "y"]:
         number = random.randint(1, 6)
+
         count += 1
         history.append(number)
+
+        if number > highest:
+            highest = number
 
         print("You got:", number)
 
@@ -21,6 +26,7 @@ while True:
 
         if history:
             print("Roll History:", history)
+            print("Highest Roll:", highest)
 
         break
 
