@@ -134,6 +134,7 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 35 ✅ Maintained consistency by improving project documentation and minor code enhancements
 * Day 36 ✅ Added delete single note and improved validation in Notes Manager
 * Day 37 ✅ Improved Dice Roller with highest roll tracking
+* Day 38 ✅ Added notes on parameter passing techniques in Python
 
 ---
 
