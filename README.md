@@ -138,6 +138,7 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 39 ✅ Added notes on nested functions in Python
 * Day 40 ✅ Added notes on pass, break, and continue statements
 * Day 41 ✅ Added notes on enumerate() function in Python
+* Day 42 ✅ Added notes on Python list methods
 
 ---
 
