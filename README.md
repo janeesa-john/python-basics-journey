@@ -140,6 +140,7 @@ To strengthen problem-solving skills and build a solid foundation for backend de
 * Day 41 ✅ Added notes on enumerate() function in Python
 * Day 42 ✅ Added notes on Python list methods
 * Day 43 ✅ Added notes on list slicing in Python
+* Day 44 ✅ Added notes on tuples in Python
 
 ---
 
